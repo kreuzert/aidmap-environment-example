@@ -2,6 +2,7 @@ name: equ_layer
 channels:
   - conda-forge
 dependencies:
+  - python=3.12
   - anyio=4.6.2.post1
   - apiclient=1.0.4
   - argon2-cffi=23.1.0
